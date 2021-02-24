@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey there 👋
 
+I'm currently working at [Marshmallow](https://www.marshmallow.com/) building a world where insurance benefits everyone. This means using technology to build products that are affordable, instant, and inclusive 🚀
 <!--
 **PTrabuco/PTrabuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
