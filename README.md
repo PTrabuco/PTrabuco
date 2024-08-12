@@ -1,6 +1,8 @@
 ### Hey there 👋
 
-I'm currently working at [Marshmallow](https://www.marshmallow.com/) building a world where insurance benefits everyone. This means using technology to build products that are affordable, instant, and inclusive 🚀
+I'm currently solving business onboarding for good at [Condukt]([https://www.marshmallow.com/](https://condukt.co/)) 🚀
+
+Previously I worked at [Marshmallow](https://www.marshmallow.com/) building a world where insurance benefits everyone. 
 <!--
 **PTrabuco/PTrabuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
