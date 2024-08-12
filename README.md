@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm currently solving business onboarding for good at [Condukt]([https://www.marshmallow.com/](https://condukt.co/)) 🚀
+I'm currently solving business onboarding for good at [Condukt](https://condukt.co/) 🚀
 
 Previously I worked at [Marshmallow](https://www.marshmallow.com/) building a world where insurance benefits everyone. 
 <!--
